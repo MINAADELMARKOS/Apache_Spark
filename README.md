@@ -1,46 +1,47 @@
-# 🔥 Spark Explained: A Modern Guide to Apache Spark
+# 🔥 Spark Explained — Apache Spark from Real Production Experience
 
-Welcome to the official GitHub repository for **Spark Explained**, a content-driven series that breaks down *"Spark: The Definitive Guide"* into concise, practical, and engaging insights — created specifically for LinkedIn and the global data community.
+Welcome to **Spark Explained**, a practical and opinionated Apache Spark article series created by **Mina Adel Markos** — Big Data Engineer with 5+ years of real-world experience building large-scale data platforms across telecom, finance, and analytics domains.
 
-Authored by [Your Name], a data professional based in Egypt and actively seeking **remote data engineering roles abroad**, this series is designed to bridge the gap between theory and real-world application using **clear explanations**, **bold perspectives**, and **career-aligned storytelling**.
+This repository is the **official companion repo** for my LinkedIn article series that distills and critiques *“Spark: The Definitive Guide”* through a **production-first, engineer’s mindset** — not just theory.
 
----
-
-## ✨ About the Series
-
-Apache Spark is powerful — but it’s also misunderstood.
-
-**Spark Explained** is your go-to resource for mastering Spark without drowning in jargon. This series takes the core lessons from the book *"Spark: The Definitive Guide"* and presents them through a personal, digestible lens for:
-
-- 🔹 Beginners exploring Spark for the first time
-- 🔹 Data engineers deepening their distributed systems knowledge
-- 🔹 Tech leaders and hiring managers scanning for talent & clarity
-
-Each article is published natively on LinkedIn with a custom visual, tailored hashtags, and strategic engagement hooks to reach a wider tech audience — especially across Europe and global markets.
+📌 Main audience:  
+Data Engineers • Analytics Engineers • Big Data Practitioners • Tech Leads • Hiring Managers
 
 ---
 
-## 📚 What You'll Find Here
+## 👨‍💻 About the Creator
 
-This repo is the **companion resource** to the LinkedIn series. It includes:
+**Mina Adel Markos**  
+Big Data Engineer  
+📍 Cairo, Egypt | 🌍 Open to EU & international relocation / remote roles  
 
-- ✅ **LinkedIn Articles (Markdown)**  
-  Each article file mirrors the public post, including improvements and final polish before publication.
+- 🔗 LinkedIn: https://www.linkedin.com/in/mina-markos-343b8b171/  
+- 💻 GitHub: https://github.com/MINAADELMARKOS  
+- 📊 Portfolio: MinaMarkos Projects | novyPro   
 
-- ✅ **Article Reviews & Corrections**  
-  Pre-publishing notes on what was wrong/misleading/confusing in the Spark book or early drafts — and how it was improved.
-
-- ✅ **Visual Prompt Ideas**  
-  Concepts and draft prompts used to generate AI visuals for each article.
-
-- ✅ **Hashtag Strategy**  
-  Suggested hashtags and SEO-friendly tags, with an emphasis on trending topics in the **EU tech hiring ecosystem**.
-
-- ✅ **Series Branding Assets**  
-  Series title, logo, sample LinkedIn banners, and the custom hashtag: `#SparkExplained`.
+### Professional Snapshot
+- **5+ years** designing and optimizing large-scale data platforms
+- Specialized in **Apache Spark**, Hadoop ecosystem, and **cloud lakehouse architectures**
+- Delivered measurable business impact:
+  - ⚡ 70% faster processing
+  - 💰 80% revenue loss reduction
+  - 🟢 99.9% platform availability
+- Certified in **Databricks, Cloudera, Quantexa, Google BI, IBM Data Scientist, Solution Architect MongoDB**
 
 ---
 
-## 📌 Featured Series Hashtag
+## 🎯 Why This Series Exists
 
-Use and follow this hashtag on LinkedIn to track the full series:
+Most Spark content falls into one of two traps:
+1. **Too academic** — good theory, zero production realism  
+2. **Too shallow** — code snippets without understanding trade-offs  
+
+**Spark Explained** exists to fix that.
+
+This series:
+- Explains Spark **clearly** for beginners  
+- Challenges misconceptions for experienced engineers  
+- Highlights **what goes wrong in real systems** — and how to fix it  
+- Adds production context from **telecom, banking, and regulated environments**
+
+All content is adapted from *Spark: The Definitive Guide* — but **validated against real-world usage**.
