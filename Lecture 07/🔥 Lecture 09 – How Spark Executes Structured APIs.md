@@ -46,7 +46,12 @@ Spark is only validating:
 👉 _Is this syntactically and logically correct?_
 
 
-![[Figure 4-1.jpeg]]
+
+<center>
+<img align="left" width="1500" height="600" src="Figure 4-1.jpeg">
+<center>
+
+
 
 ---
 
@@ -78,8 +83,9 @@ At this stage:
 
 Still **no execution**.
 
-
-![[Figure 4-2.jpeg]]
+<center>
+<img align="left" width="1500" height="600" src="Figure 4-2.jpeg">
+<center>
 
 ---
 
@@ -168,7 +174,12 @@ Examples of decisions here:
 This is where **performance is decided**.
 
 ---
-![[Figure 4-3.jpeg]]
+
+
+<center>
+<img align="left" width="1500" height="600" src="Figure 4-3.jpeg">
+<center>
+
 ## 6️⃣ Spark Executes the Physical Plan (RDD-Level Execution)
 
 Here’s the key truth many people miss:
